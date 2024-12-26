@@ -114,7 +114,6 @@ The server will run on `http://localhost:5000`. Update the `REACT_APP_API_BASE_U
 
 I'm planning to expand the system with additional features, including:  
 
-- **Support for Additional HTTP Methods**: Add support for `PUT`, `DELETE`, and other HTTP methods in the `useApi` hook.  
 - **Retry Mechanism**: Implement custom retry logic with exponential backoff to enhance reliability.  
 - **Advanced Error Categorization**: Improve error parsing for specific use cases, such as validation or server errors.  
 - **Request Cancellation**: Use Axios cancel tokens to prevent memory leaks on component unmounts.  
