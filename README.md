@@ -9,7 +9,7 @@ This repository contains the source code for my tutorial on building a centraliz
 [**Simplifying React Error Handling: Build a Robust Frontend System**](https://www.youtube.com/watch?v=qa996Dh0TNo)
 
 🎓 **Free Udemy Course**:  
-[**Master Centralized Error Handling in React**](#) _(Link will be updated after approval)_
+[**Master Centralized Error Handling in React**](https://www.udemy.com/course/master-react-error-handling-with-axios-and-hooks)
 
 ---
 
