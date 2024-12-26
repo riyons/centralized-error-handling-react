@@ -123,7 +123,7 @@ I'm planning to expand the system with additional features, including:
 ## 📂 Related Resources  
 
 - [**YouTube Tutorial**](https://www.youtube.com/watch?v=qa996Dh0TNo)  
-- [**Free Udemy Course**](#) _(Link will be updated post-approval)_  
+- [**Free Udemy Course**](https://www.udemy.com/course/master-react-error-handling-with-axios-and-hooks)  
 - [**Axios Interceptors Documentation**](https://axios-http.com/docs/interceptors)  
 - [**React-Toastify Documentation**](https://fkhadra.github.io/react-toastify/introduction)  
 
