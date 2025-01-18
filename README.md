@@ -49,7 +49,7 @@ npm install
 Create a `.env.local` file in the root directory:
 
 ```env
-REACT_APP_API_BASE_URL=http://localhost:5000
+REACT_APP_API_BASE_URL=http://localhost:3000
 ```
 
 ### 4. Run the Application
@@ -83,7 +83,7 @@ A simple Node.js server is included in the `backend` folder to simulate API resp
    node app.js
    ```
 
-The server will run on `http://localhost:5000`. Update the `REACT_APP_API_BASE_URL` in the `.env.local` file to point to this URL for local development.
+The server will run on `http://localhost:3000`. Update the `REACT_APP_API_BASE_URL` in the `.env.local` file to point to this URL for local development.
 
 ---
 
