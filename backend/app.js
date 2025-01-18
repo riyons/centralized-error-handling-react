@@ -7,7 +7,13 @@ app.use(cors());
 
 // Dummy products data
 const products = [
-  { id: 1, name: "Product 1", price: 10.99, description: "A great product" },
+  {
+    id: 1,
+    name: "Product 1",
+    price: 10.99,
+    description: "A great product",
+    inStock: true,
+  },
   {
     id: 2,
     name: "Product 2",
@@ -19,6 +25,7 @@ const products = [
     name: "Product 3",
     price: 5.0,
     description: "Budget friendly product",
+    inStock: true,
   },
   { id: 4, name: "Product 4", price: 19.99, description: "Top rated product" },
   { id: 5, name: "Product 5", price: 9.99, description: "Value for money" },
@@ -33,6 +40,7 @@ const products = [
     name: "Product 7",
     price: 7.5,
     description: "Affordable yet durable",
+    inStock: true,
   },
   { id: 8, name: "Product 8", price: 12.0, description: "All-season product" },
   {
@@ -40,6 +48,7 @@ const products = [
     name: "Product 9",
     price: 3.49,
     description: "Basic everyday product",
+    inStock: true,
   },
   {
     id: 10,

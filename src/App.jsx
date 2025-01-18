@@ -1,11 +1,11 @@
 import "./App.css";
 import { ToastContainer } from "react-toastify";
-import ProductsList from "./components/productsList";
+import ProductsPage from "./pages/ProductsPage";
 
 function App() {
   return (
     <div className="App">
-      <ProductsList />
+      <ProductsPage />
       <ToastContainer />
     </div>
   );
